@@ -1,12 +1,26 @@
-﻿<Properties StartupConfiguration="{F5C14F67-EA24-4C0E-88E3-4252F4300B37}|Default">
-  <MultiItemStartupConfigurations />
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{F5C14F67-EA24-4C0E-88E3-4252F4300B37}" ItemName="ShopOnline.Api" ConfigurationId="Default" />
+        <StartupItem ItemId="{69E35BFC-927B-49EA-BF6F-4DDCAE6175A4}" ItemName="ShopOnline.Web" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
   <MonoDevelop.Ide.ItemProperties.ShopOnline.Web PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ShopOnlineSolution" expanded="True" selected="True">
+          <Node name="ShopOnlineSolution" expanded="True">
             <Node name="ShopOnline.Api" expanded="True" />
+            <Node name="ShopOnline.Web" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Contracts" expanded="True" />
+                <Node name="ProductService.cs" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -16,8 +30,9 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.ShopOnline.Models FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ShopOnline.Api PreferredExecutionTarget="/Applications/Safari.app" />
 </Properties>

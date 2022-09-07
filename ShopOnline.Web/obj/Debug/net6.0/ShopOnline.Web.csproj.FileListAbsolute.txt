@@ -813,3 +813,11 @@
 /Users/andresvelasquez/Projects/dotnet/ShopOnlineSolution/ShopOnline.Web/obj/Debug/net6.0/refint/ShopOnline.Web.dll
 /Users/andresvelasquez/Projects/dotnet/ShopOnlineSolution/ShopOnline.Web/obj/Debug/net6.0/ShopOnline.Web.pdb
 /Users/andresvelasquez/Projects/dotnet/ShopOnlineSolution/ShopOnline.Web/obj/Debug/net6.0/ref/ShopOnline.Web.dll
+/Users/andresvelasquez/Projects/dotnet/ShopOnlineSolution/ShopOnline.Web/bin/Debug/net6.0/wwwroot/_framework/ShopOnline.Models.dll
+/Users/andresvelasquez/Projects/dotnet/ShopOnlineSolution/ShopOnline.Web/bin/Debug/net6.0/wwwroot/_framework/ShopOnline.Models.pdb
+/Users/andresvelasquez/Projects/dotnet/ShopOnlineSolution/ShopOnline.Web/bin/Debug/net6.0/wwwroot/_framework/ShopOnline.Models.pdb.gz
+/Users/andresvelasquez/Projects/dotnet/ShopOnlineSolution/ShopOnline.Web/bin/Debug/net6.0/wwwroot/_framework/ShopOnline.Models.dll.gz
+/Users/andresvelasquez/Projects/dotnet/ShopOnlineSolution/ShopOnline.Web/bin/Debug/net6.0/ShopOnline.Models.dll
+/Users/andresvelasquez/Projects/dotnet/ShopOnlineSolution/ShopOnline.Web/bin/Debug/net6.0/ShopOnline.Models.pdb
+/Users/andresvelasquez/Projects/dotnet/ShopOnlineSolution/ShopOnline.Web/obj/Debug/net6.0/build-gz/z63ZLMYx.gz
+/Users/andresvelasquez/Projects/dotnet/ShopOnlineSolution/ShopOnline.Web/obj/Debug/net6.0/build-gz/x4AOAIHf.gz
