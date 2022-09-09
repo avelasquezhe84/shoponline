@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BShA9VPSUHeMEgpqUn7mx1e/t/PrhM/tlQ3AMd/duHf78MHeo04ulx0KywqH3KHigEZj82hrGbFehkIqENyakA==",
+  "dgSpecHash": "nB8ceJHYkY8UT1ZE9H98hLsk+UFyvC2TnKy3kJ8pdZSrzwueyl8cXn2W5Clxs+p39QLm+iCbkWp88XxNn05GxA==",
   "success": true,
-  "projectFilePath": "/Users/andresvelasquez/Projects/dotnet/ShopOnlineSolution/ShopOnline.Models/ShopOnline.Models.csproj",
+  "projectFilePath": "C:\\Users\\Andres.Velasquez\\source\\repos\\shoponline\\ShopOnline.Models\\ShopOnline.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
